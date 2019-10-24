@@ -7,4 +7,8 @@ public class Main {
 
         System.out.println("cc");
     }
+
+    public void show(){
+        System.out.println("********");
+    }
 }
